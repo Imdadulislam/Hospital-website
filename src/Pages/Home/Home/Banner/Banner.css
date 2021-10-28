@@ -1,0 +1,48 @@
+.banner-container{
+  background-color: #CEE9FD;
+}
+
+.btn{
+  background-image: linear-gradient(to right, rgb(64, 172, 214) , rgb(54, 82, 240));
+  color: aliceblue;
+
+  
+}
+@media only screen and (max-width:688px) {
+  .heading{
+    padding-top: 10px;
+  }
+  h1{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+
+}
+@media only screen and (min-width:689px) and (max-width:991px) {
+  .heading{
+    margin-top: 15px;
+    margin-left: 100px;
+  }
+  h1{
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+}
+@media only screen and (min-width:992px)  {
+  .heading{
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  .btn{
+    padding: 10px 30px;
+  font-size: 20px;
+  }
+  h1{
+    font-weight: bold;
+    font-size: 70px;
+  }
+  h6{
+    font-size: 20px;
+  }
+}

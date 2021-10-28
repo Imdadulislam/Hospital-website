@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "title": "Cardiology",
+        "about": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.",
+        "details": "",
+        "img": "https://i.ibb.co/RbHcwHM/Doctor-or-cardiologist-holding-heart-against-chest-concept-for-healthcare-and-diagnosis-medical-card.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Dentistry",
+        "about": "Dentistry, the profession concerned with the prevention and treatment of oral disease",
+        "details": "",
+        "img": "https://i.ibb.co/f8hzMJn/Attractive-black-lady-checking-her-beautiful-smile-in-mirror-after-stomatological-treatment.jpg"
+    },
+    {
+        "id": "3",
+        "title": "ENT Specialist",
+        "about": "ENT Department of Specialized Hospital offers comprehensive treatment for a patients",
+        "details": "",
+        "img": "https://i.ibb.co/F0TGn3j/Middle-aged-female-patient-visiting-doctor-otolaryngologist.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Neuroanatomy",
+        "about": "Neuroanatomy is the study of the structure and organization of the nervous system. In contrast to animals with radial symmetry",
+        "details": "",
+        "img": "https://i.ibb.co/1fn0hJC/Rear-view-of-African-American-female-medical-school-professor-teaching-students-about-human-brain.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Eye Care",
+        "about": "eye care interventions increase demand and accessibility to vision services. As with most of our interventions",
+        "details": "",
+        "img": "https://i.ibb.co/JpCC7yY/Portrait-of-a-happy-mature-male-patient-undergoing-vision-check-with-special-ophthalmic-glasses.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Blood Screening",
+        "about": "A blood test usually involves taking a blood sample from a blood vessel in your arm and body",
+        "details": "",
+        "img": "https://i.ibb.co/55LV5G2/Close-up-of-lab-assistant-in-uniform-with-mask-and-rubber-gloves-holding-test-tube-with-blood-sample.jpg"
+    }
+]

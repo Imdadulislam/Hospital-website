@@ -1,0 +1,38 @@
+[
+    {   "id":1,
+        "name": "Audrey Button",
+        "expert": "Dental Surgeon",
+        "img": "https://i.ibb.co/7G1TPQt/team-10.jpg"
+    },
+    {   
+        "id":2,
+        "name": "Hellen Hill",
+        "expert": "Dental Surgeon",
+        "img": "https://i.ibb.co/mhRLbLK/team-9.jpg"
+    },
+    {   
+        "id":3,
+        "name": "Emily Haden",
+        "expert": "Dental Surgeon",
+        "img": "https://i.ibb.co/Fx07C8H/team-8.jpg"
+    },
+    {
+        "id":4,
+        "name": "Audrey Button",
+        "expert": "Dental Surgeon",
+        "img": "https://i.ibb.co/8dYdPLw/team-7.jpg"
+    },
+    {
+        "id":5,
+        "name": "Hellen Hill",
+        "expert": "Dental Surgeon",
+        "img": "https://i.ibb.co/4jfWG1Y/team-6.jpg"
+    },
+    {
+        "id":6,
+        "name": "Emily Haden",
+        "expert": "Dental Surgeon",
+        "img": "https://i.ibb.co/KcnjRhK/team-5.jpg"
+    }
+
+]
