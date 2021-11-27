@@ -10,10 +10,9 @@ Checket it out now:
 
 ##Prospective and Features
 
-<li>Bangladesh is now a digital country</li>
-<li>As a digital country we need online services in every where</li>
+<li>It’s a responsive hospital service website for mobile, laptop, and desktop.</li>
+<li>I use the google authentication system in this project. Users must log in first to get an appointment. The user’s login data will save in the database.</li>
+<li>After login, a user can get an appointment. User can see their appointment history and give feedback. </li>
 <li>I created this website for every people who can easyly get hospital services from this website</li>
-<li>As I am junior web developer I just tried to create with my learning ability</li>
-<li>This site is made with react library, so that user will have a great experience with it.</li>
+<li>This site is made with React, React-router, Private-route,Bootstrap, Node, Firebase.</li>
 <li>Hope your will have a good experience with this site...</li>
-<li>you can contact us if improve we should make..</li>
